@@ -11,18 +11,6 @@ import Moment from 'react-moment';
 
 class Homeworks extends Component {
 
-  // {
-  //   "id": 100,
-  //   "deadline": "2019-06-16T17:00:00Z",
-  //   "description": "New York Business Trip",
-  //   "location": "New York",
-  //   "lesson": {
-  //   "id": 1,
-  //   "name": "Travel"
-  //   }
-  //   },
-
-
     emptyItem = {
         title : '' ,
         deadline : new Date(),
