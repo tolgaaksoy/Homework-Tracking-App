@@ -1,6 +1,6 @@
 # HomeworkTrackingApp
 
-This web application is a file download upload application developed using Spring Boot, React and Bootstrap.
+This web application is a file download upload application developed using Spring Boot, React and Bootstrap.The user can save and delete homework information such as homework title, homework subject, deadline, lesson name.
 
 
 ### Using Tools & Technologies
